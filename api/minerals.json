@@ -2,8 +2,8 @@
     {
       "id": 1,
       "name": "Gold",
-      "density": "19.32",
-      "hardness": "2.5 - 3",
+      "density": 19.32,
+      "hardness": 3,
       "facts": [
         "Gold is a highly valued precious metal used in jewelry, electronics, and as a financial asset.",
         "Gold has been used by humans for thousands of years, with its history dating back to ancient civilizations.",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Diamond",
-      "density": "3.52",
+      "density": 3.52,
       "hardness": 10,
       "facts": [
         "Diamond is the hardest known natural material, used in cutting tools and jewelry.",
@@ -24,8 +24,8 @@
     {
       "id": 3,
       "name": "Salt",
-      "density": "2.16",
-      "hardness": "2 - 3",
+      "density": 2.16,
+      "hardness": 3,
       "facts": [
         "Salt, primarily composed of sodium chloride, is essential for human health and is widely used in food preservation.",
         "Salt deposits can be found in underground mines or harvested from evaporated seawater.",
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "name": "Quartz",
-      "density": "2.65",
+      "density": 2.65,
       "hardness": 7,
       "facts": [
         "Quartz is one of the most abundant minerals in the Earth's crust and is used in various industrial applications.",
@@ -46,8 +46,8 @@
     {
       "id": 5,
       "name": "Iron Ore",
-      "density": "4.5",
-      "hardness": "4 - 6",
+      "density": 4.5,
+      "hardness": 6,
       "facts": [
         "Iron ore is a key raw material in steel production, with iron being a critical component of modern infrastructure.",
         "Iron ore is extracted from open-pit or underground mines and processed to remove impurities.",
@@ -57,8 +57,8 @@
     {
       "id": 6,
       "name": "Coal",
-      "density": "1.1",
-      "hardness": "1 - 2",
+      "density": 1.1,
+      "hardness": 2,
       "facts": [
         "Coal is a fossil fuel formed from ancient plant material and is used primarily for electricity generation and industrial processes.",
         "Coal deposits are found in sedimentary rock layers and are extracted through mining operations.",
@@ -68,7 +68,7 @@
     {
       "id": 7,
       "name": "Uranium",
-      "density": "18.95",
+      "density": 18.95,
       "hardness": 6,
       "facts": [
         "Uranium is a radioactive element used as fuel in nuclear reactors and has applications in nuclear weapons.",
@@ -79,8 +79,8 @@
     {
       "id": 8,
       "name": "Graphite",
-      "density": "2.23",
-      "hardness": "1 - 2",
+      "density": 2.23,
+      "hardness": 2,
       "facts": [
         "Graphite is a form of carbon used in pencils, lubricants, and as a conductor in various applications.",
         "Graphite occurs naturally in metamorphic rocks and can also be produced synthetically.",
