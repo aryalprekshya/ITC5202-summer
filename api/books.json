@@ -1,5 +1,4 @@
-{
-  "books": [
+[
     {
       "ISBN": "9780060935467",
       "title": "To Kill a Mockingbird",
@@ -90,5 +89,4 @@
       "publicationYear": 1932,
       "isDeleted": false
     }
-  ]
-}
+]
