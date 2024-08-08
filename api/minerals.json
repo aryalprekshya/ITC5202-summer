@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Gold",
+      "density": "19.32",
+      "hardness": "2.5 - 3",
+      "facts": [
+        "Gold is a highly valued precious metal used in jewelry, electronics, and as a financial asset.",
+        "Gold has been used by humans for thousands of years, with its history dating back to ancient civilizations.",
+        "Gold is a dense, soft metal with a bright yellow color, known for its malleability and resistance to corrosion."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Diamond",
+      "density": "3.52",
+      "hardness": 10,
+      "facts": [
+        "Diamond is the hardest known natural material, used in cutting tools and jewelry.",
+        "Diamonds are formed under extreme pressure and temperature conditions in the Earth's mantle.",
+        "Diamonds are renowned for their brilliance and light dispersion, making them highly desirable in gemstones."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Salt",
+      "density": "2.16",
+      "hardness": "2 - 3",
+      "facts": [
+        "Salt, primarily composed of sodium chloride, is essential for human health and is widely used in food preservation.",
+        "Salt deposits can be found in underground mines or harvested from evaporated seawater.",
+        "Salt has been used by various civilizations throughout history for its preservative and flavor-enhancing properties."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Quartz",
+      "density": "2.65",
+      "hardness": 7,
+      "facts": [
+        "Quartz is one of the most abundant minerals in the Earth's crust and is used in various industrial applications.",
+        "Quartz is known for its hardness and resistance to weathering, making it a common mineral in sedimentary rocks.",
+        "Quartz crystals can be found in a variety of colors and are often used in gemstones and electronics."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Iron Ore",
+      "density": "4.5",
+      "hardness": "4 - 6",
+      "facts": [
+        "Iron ore is a key raw material in steel production, with iron being a critical component of modern infrastructure.",
+        "Iron ore is extracted from open-pit or underground mines and processed to remove impurities.",
+        "Iron has been used for millennia, with its production significantly impacting the development of human societies."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Coal",
+      "density": "1.1",
+      "hardness": "1 - 2",
+      "facts": [
+        "Coal is a fossil fuel formed from ancient plant material and is used primarily for electricity generation and industrial processes.",
+        "Coal deposits are found in sedimentary rock layers and are extracted through mining operations.",
+        "Coal has played a major role in industrialization and continues to be a significant energy source globally."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Uranium",
+      "density": "18.95",
+      "hardness": 6,
+      "facts": [
+        "Uranium is a radioactive element used as fuel in nuclear reactors and has applications in nuclear weapons.",
+        "Uranium is found in various mineral deposits and is extracted through mining and milling processes.",
+        "Uranium has played a key role in the development of nuclear energy and weaponry."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Graphite",
+      "density": "2.23",
+      "hardness": "1 - 2",
+      "facts": [
+        "Graphite is a form of carbon used in pencils, lubricants, and as a conductor in various applications.",
+        "Graphite occurs naturally in metamorphic rocks and can also be produced synthetically.",
+        "Graphite's unique properties include its ability to conduct electricity and its layered crystal structure."
+      ]
+    }
+]
