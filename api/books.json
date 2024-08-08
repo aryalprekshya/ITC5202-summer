@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "ISBN": "9780060935467",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genres": ["Classic", "Historical"],
+      "description": "A novel set in the American South during the 1930s, focusing on the Finch family & the moral growth of the children as they navigate issues of racism and injustice.",
+      "publicationYear": 1960,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780451524935",
+      "title": "1984",
+      "author": "George Orwell",
+      "genres": ["Dystopian", "Political Fiction"],
+      "description": "A dystopian novel set in a totalitarian society under constant surveillance, where independent thinking is suppressed and the truth is manipulated.",
+      "publicationYear": 1949,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780743273565",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genres": ["Classic", "Modernist"],
+      "description": "A novel about the American Dream & the moral decay of society, told through the eyes of Nick Carraway and his encounters with the mysterious Jay Gatsby.",
+      "publicationYear": 1925,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780316769488",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genres": ["Classic", "Coming-of-Age"],
+      "description": "The story of Holden Caulfield, a disenchanted teenager who narrates his experiences in New York City after being expelled from his prep school.",
+      "publicationYear": 1951,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780590353427",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genres": ["Fantasy", "Adventure"],
+      "description": "The first book in the Harry Potter series, introducing the young wizard Harry and his adventures at Hogwarts School of Witchcraft and Wizardry.",
+      "publicationYear": 1997,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780345339683",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genres": ["Fantasy", "Adventure"],
+      "description": "A fantasy novel that follows the journey of Bilbo Baggins as he embarks on an epic quest to help a group of dwarves reclaim their homeland.",
+      "publicationYear": 1937,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780141439518",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genres": ["Romance", "Classic"],
+      "description": "A classic novel about the manners and matrimonial machinations among the British gentry of the early 19th century, focusing on the relationship between Elizabeth Bennet and Mr. Darcy.",
+      "publicationYear": 1813,
+      "isDeleted": true
+    },
+    {
+      "ISBN": "9780547928210",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "genres": ["Fantasy", "Adventure"],
+      "description": "The first volume of The Lord of the Rings trilogy, in which Frodo Baggins and his companions set out on a journey to destroy the One Ring and save Middle-earth.",
+      "publicationYear": 1954,
+      "isDeleted": true
+    },
+    {
+      "ISBN": "9780064471046",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "genres": ["Fantasy", "Children's"],
+      "description": "The first book in The Chronicles of Narnia series, where four children discover a magical land inside a wardrobe and embark on a journey to defeat an evil witch.",
+      "publicationYear": 1950,
+      "isDeleted": false
+    },
+    {
+      "ISBN": "9780060850524",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genres": ["Dystopian", "Science Fiction"],
+      "description": "A dystopian novel set in a future society characterized by technological advancements, social engineering, & a lack of individuality.",
+      "publicationYear": 1932,
+      "isDeleted": false
+    }
+  ]
+}
