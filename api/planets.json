@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "facts": [
+            "Mercury is the smallest planet in the Solar System.",
+            "Mercury has the shortest orbit around the Sun, completing it in just about 88 Earth days.",
+            "Mercury has extreme temperature variations, with highs reaching around 800°F (427°C) during the day and dropping to -290°F (-180°C) at night."
+        ],
+        "planet": "Mercury",
+        "deleted": false,
+        "distance_from_earth": 48
+    },
+    {
+        "id": 2,
+        "facts": [
+            "Venus is often called Earth's 'sister planet' because of their similar size, composition, and proximity to the Sun.",
+            "Venus has a thick atmosphere primarily composed of carbon dioxide, which creates a strong greenhouse effect, making it the hottest planet in the Solar System with surface temperatures reaching about 900°F (475°C).",
+            "Venus rotates in the opposite direction to most planets, a phenomenon called retrograde rotation."
+        ],
+        "planet": "Venus",
+        "deleted": false,
+        "distance_from_earth": 162
+    },
+    {
+        "id": 3,
+        "facts": [
+            "Earth is the only planet known to support life.",
+            "Earth is mostly covered in water, about 71% of its surface.",
+            "Earth's atmosphere is composed of roughly 78% nitrogen, 21% oxygen, and trace amounts of other gases."
+        ],
+        "planet": "Earth",
+        "deleted": false,
+        "distance_from_earth": 0
+    },
+    {
+        "id": 4,
+        "facts": [
+            "Mars is often called the 'Red Planet' due to its reddish appearance caused by iron oxide (rust) on its surface.",
+            "Mars has the largest volcano in the Solar System, Olympus Mons, which is about 13.6 miles (22 kilometers) high and 370 miles (600 kilometers) in diameter.",
+            "Mars has two small moons, Phobos and Deimos."
+        ],
+        "planet": "Mars",
+        "deleted": false,
+        "distance_from_earth": 225
+    },
+    {
+        "id": 5,
+        "facts": [
+            "Jupiter is the largest planet in the Solar System, with a diameter over 11 times that of Earth.",
+            "Jupiter has a strong magnetic field, which is about 14 times stronger than Earth's.",
+            "Jupiter's Great Red Spot is a massive storm that has been raging for at least 400 years."
+        ],
+        "planet": "Jupiter",
+        "deleted": false,
+        "distance_from_earth": 365
+    },
+    {
+        "id": 6,
+        "facts": [
+            "Saturn is famous for its beautiful and extensive ring system, composed mostly of ice particles and dust.",
+            "Saturn has the second-largest moon in the Solar System, Titan, which is larger than the planet Mercury.",
+            "Saturn is the least dense planet in the Solar System; if there were an ocean large enough, Saturn would float on it."
+        ],
+        "planet": "Saturn",
+        "deleted": false,
+        "distance_from_earth": 746
+    },
+    {
+        "id": 7,
+        "facts": [
+            "Uranus is the seventh planet from the Sun and was the first planet discovered with the aid of a telescope.",
+            "Uranus is unique among the planets because it rotates on its side, possibly due to a collision with another large body in its past.",
+            "Uranus has a faint ring system and 27 known moons."
+        ],
+        "planet": "Uranus",
+        "deleted": false,
+        "distance_from_earth": 1693
+    },
+    {
+        "id": 8,
+        "facts": [
+            "Neptune is the eighth and farthest known planet from the Sun.",
+            "Neptune's atmosphere is primarily composed of hydrogen, helium, and methane, giving it a blue color.",
+            "Neptune has the strongest winds in the Solar System, with gusts reaching up to 1,500 miles per hour (2,400 kilometers per hour)."
+        ],
+        "planet": "Neptune",
+        "deleted": false,
+        "distance_from_earth": 2704
+    }
+]
