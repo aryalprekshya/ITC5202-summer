@@ -1,0 +1,134 @@
+[
+    {
+      "id": "12",
+      "name": {
+        "scientificName": "Ocimum basilicum",
+        "commonName": "Basil"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Asia",
+      "color": "Green",
+      "height": "30-60 cm"
+    },
+    {
+      "id": "23",
+      "name": {
+        "scientificName": "Rosmarinus officinalis",
+        "commonName": "Rosemary"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Aromatherapy"],
+      "origin": "Mediterranean",
+      "color": "Green",
+      "height": "60-100 cm"
+    },
+    {
+      "id": "34",
+      "name": {
+        "scientificName": "Thymus vulgaris",
+        "commonName": "Thyme"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Europe",
+      "color": "Green",
+      "height": "15-30 cm"
+    },
+    {
+      "id": "45",
+      "name": {
+        "scientificName": "Mentha",
+        "commonName": "Mint"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Europe, Asia",
+      "color": "Green",
+      "height": "30-90 cm"
+    },
+    {
+      "id": "56",
+      "name": {
+        "scientificName": "Salvia officinalis",
+        "commonName": "Sage"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Europe",
+      "color": "Green",
+      "height": "30-60 cm"
+    },
+    {
+      "id": "67",
+      "name": {
+        "scientificName": "Lavandula angustifolia",
+        "commonName": "Lavender"
+      },
+      "type": "Flower",
+      "uses": ["Aromatherapy and Cooking"],
+      "origin": "Mediterranean",
+      "color": "Purple",
+      "height": "30-60 cm"
+    },
+    {
+      "id": "78",
+      "name": {
+        "scientificName": "Petroselinum crispum",
+        "commonName": "Parsley"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Garnishing"],
+      "origin": "Europe",
+      "color": "Green",
+      "height": "20-30 cm"
+    },
+    {
+      "id": "89",
+      "name": {
+        "scientificName": "Origanum vulgare",
+        "commonName": "Oregano"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Europe & Asia",
+      "color": "Green",
+      "height": "30-60 cm"
+    },
+    {
+      "id": "90",
+      "name": {
+        "scientificName": "Coriandrum sativum",
+        "commonName": "Cilantro"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Europe, Asia",
+      "color": "Green",
+      "height": "30-60 cm"
+    },
+    {
+      "id": "109",
+      "name": {
+        "scientificName": "Anethum graveolens",
+        "commonName": "Dill"
+      },
+      "type": "Leaf",
+      "uses": ["Cooking", "Medicinal"],
+      "origin": "Europe and Asia",
+      "color": "Green",
+      "height": "30-60 cm"
+    },
+    {
+      "id": "901",
+      "name": {
+        "scientificName": "Matricaria chamomilla",
+        "commonName": "Chamomile"
+      },
+      "type": "Flower",
+      "uses": ["Medicinal", "Tea"],
+      "origin": "Europe",
+      "color": "White",
+      "height": "20-40 cm"
+    }
+]
